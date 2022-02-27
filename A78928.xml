@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties most gratious ansvver to the votes of the two Houses of Parliament: presented to him at Carisbrook Castle, by the Right Honourable the Earle of Middlesex; Sir Io. Hipsley knight; and John Bulkley esquier, on Munday the 7th of this present, August. 1648. In order to a personall treaty for the settling a safe and a well grounded peace.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78928</idno>
+            <idno type="STC">Wing C2503</idno>
+            <idno type="STC">Thomason E458_11</idno>
+            <idno type="STC">ESTC R205030</idno>
+            <idno type="EEBO-CITATION">99864474</idno>
+            <idno type="PROQUEST">99864474</idno>
+            <idno type="VID">116704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116704)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties most gratious ansvver to the votes of the two Houses of Parliament: presented to him at Carisbrook Castle, by the Right Honourable the Earle of Middlesex; Sir Io. Hipsley knight; and John Bulkley esquier, on Munday the 7th of this present, August. 1648. In order to a personall treaty for the settling a safe and a well grounded peace.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed August 14. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:116704:1" rendition="simple:additions"/>
+                  <p>His Maieſties Moſt gratious ANSWER TO THE VOTES Of the two Houſes OF PARLIAMENT: Preſented to Him at <hi>Carisbrook</hi> Caſtle, by the Right Honourable the Earle of <hi>Middleſex;</hi> Sir <hi>Io. Hipſley</hi> Knight; and <hi>John Bulkley</hi> Eſquier, on Munday the 7th of this preſent, <hi>August.</hi> 1648.</p>
+                  <p>In order to a <hi>Perſonall Treaty</hi> for the ſettling a ſafe and a well grounded Peace.</p>
+                  <p>LONDON, Printed <hi>Auguſt</hi> 14. 1648.</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:116704:2"/>
+                  <head>
+                     <figure>
+                        <head>C R</head>
+                        <q>HONI SOIT QVI MAL Y PENSE</q>
+                        <figDesc>royal blazon or coat of arms</figDesc>
+                     </figure>
+                  </head>
+                  <pb n="3" facs="tcp:116704:2"/>
+                  <head>The Kings moſt gratious Anſwer to the Votes of both Houſes of Parliament; In order to a Perſonall Treaty, for the ſetling of a ſafe and a well grounded Peace.</head>
+                  <opener>
+                     <dateline>Carisbrook Caſtle <date>10 Auguſt 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>F the Peace of my Dominions were not much dearer to mee, then any particular Intereſt whatſoever; I had too much reaſon to take notice of the ſe<g ref="char:EOLhyphen"/>verall Votes which paſſed againſt me, and the ſad condition I have been in now above theſe ſeven Moneths. But ſince you my two Houſes of Parliament have opened (as it ſeemes to me) a faire beginning to a hap<g ref="char:EOLhyphen"/>py Peace, I ſhall heartily apply my ſelfe thereunto; and to that end, I will as clearly and ſhortly as I may, ſet you downe thoſe things which I conceive neceſſary to this
+<pb n="4" facs="tcp:116704:3"/>bleſſed Worke, ſo that we together may re<g ref="char:EOLhyphen"/>move all impediments, that may hinder a happy concluſion of this Treaty, which with all cheerfulneſſe I do embrace.</p>
+                  <p>And to this wiſhed end, your ſelves have laid moſt excellent grounds: for what can I reaſonably expect more, then to Treat with Honour, Freedome, and Safety, upon ſuch Propoſitions as you have or ſhall preſent unto me, and ſuch as I ſhall make to you? But withall remember, that it is the definiti<g ref="char:EOLhyphen"/>on, not names of things which make them rightly known; And that without means to perform, no Propoſition can take effect; And truly my preſent condition is ſuch, that I can no more Treat, then a blind man judge of colours, or one run a race who hath both his feet faſt tide together; wherefore my firſt neceſſary demand is,</p>
+                  <p>That you will recall all ſuch Votes and Orders, by which people are frighted from comming, writing, or ſpeaking freely to me.</p>
+                  <p>Next, that ſuch men of all Profeſſions, whom I ſhall fend for, as of neceſſary uſe to me in this Treaty, may bee admitted to
+<pb n="5" facs="tcp:116704:3"/>wayt upon me; In a word, that I may be in the ſame ſtate of freedom I was in when I was laſt at <hi>Hampton Court.</hi> And in deed leſſe cannot in any reaſonable meaſure make good thoſe offers which you have made me by your Votes; for how can I treat with ho<g ref="char:EOLhyphen"/>nour ſo long as people are terrifi'd with Votes and Orders againſt coming to ſpeak, or write to mee; And am I honourably treated, ſo long as there is none about mee (except a Barber who came now with the Commiſſio<g ref="char:EOLhyphen"/>ners) that ever I named to wayt upon mee, Or with freedome, (untill I may call ſuch un<g ref="char:EOLhyphen"/>to me of whoſe ſervices I ſhall have uſe in ſo great and difficult a work) And for ſafety (I ſpeake not of my Perſon, having no ap<g ref="char:EOLhyphen"/>prehenſion that way) how can I judge to make a ſafe and well grounded Peace, un<g ref="char:EOLhyphen"/>till I may know (without diſguiſe) the true preſent State of all my Dominions, and par<g ref="char:EOLhyphen"/>ticularly of all thoſe whoſe Intereſts are ne<g ref="char:EOLhyphen"/>ceſſarily concern'd in the Peace of theſe Kingdomes? which leads me naturally to the laſt neceſſary demand I ſhall make for the bringing of this Treaty to a happy end, which is,</p>
+                  <p>
+                     <pb n="6" facs="tcp:116704:4"/>
+That you alone, or you and I joyntly, do in<g ref="char:EOLhyphen"/>vite the <hi>Scots</hi> to ſend ſome Perſons authoriſed by them to Treat upon ſuch Propoſitions, as they ſhall make; for certainly the pulique and neceſſary Intereſſe they have in this great Settlement, is ſo clearly plain to all the world, that I believe no body will deny the neceſſity of their concurrence in this Treaty, in Order to a durable Peace. Where<g ref="char:EOLhyphen"/>fore I will onely ſay, that as I am King of both Nations, ſo will I yeild to none in either Kingdom for being truly and zealouſly affected for the Good and Honour of both; my reſolution being never to be partiall for either, to the prejudice of the o<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>Now as to the Place (becauſe I conceive it to be rather a circumſtanſtiall then reall part of this Treaty, I ſhall not much inſiſt upon it) I name <hi>Newport</hi> in this Iſle, yet the fervent zeale I have that a ſpeedy end be put to theſe unhappy diſtra<g ref="char:EOLhyphen"/>ctions, doth force me earneſtly to deſire you to conſider what a great loſſe of time it will be to Treat ſo farre from the Body of my two Houſes, when every ſmall debate (of which doubleſſe there will be many) muſt be tranſmitted to <hi>Westminſter</hi> be<g ref="char:EOLhyphen"/>fore it be concluded: And really I think (though to ſome it may ſeeme a paradox) that peoples minds will be much more apt to ſettle, ſeeing mee Treat in or neare <hi>London,</hi> then in this Iſle, becauſe ſo long as I am here, it will never be believed by many, that I am really ſo free, as before this Treaty begin I expect to be: And ſo I leave and recommend this
+<pb n="7" facs="tcp:116704:4"/>point to your ſerious conſideration; And thus I have not only fully accepted of the Treaty, which you have propoſed to mee by your Votes of the third of this Month; but alſo given it all the fur<g ref="char:EOLhyphen"/>therance that lies in me, by demanding the neceſſary meanes, for the effectuall performance thereof: All which are ſo neceſſarily employed by, though not particularly mentioned in your Votes, as I can no wayes doubt of your ready complyance with me herein; I have now no more to ſay, but to conjure you, by all that is deare to Chriſtians, Honeſt men, or good Patriots: that yee will make all the expe<g ref="char:EOLhyphen"/>dition poſſible to begin this happy work, by haſting down your Commiſſioners fully Authorized and well inſtructed, and by enabling mee (as I have ſhewed you) to Treat; Praying the God of peace ſo to bleſſe our endeavors, that all my Domini<g ref="char:EOLhyphen"/>ons may ſpeedily enjoy a ſafe and well-grounded Peace.</p>
+                  <closer>
+                     <signed>CHARLES R.</signed>
+                  </closer>
+                  <trailer>To the Speaker of the Lords Houſe <hi>pro tempore,</hi> to be com<g ref="char:EOLhyphen"/>municated to the Lords and Commons in the Parliament of <hi>England</hi> at Weſtminſter.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:116704:5"/>
+                  <pb facs="tcp:116704:5" rendition="simple:additions"/>
+                  <p>HIS MAIESTIES Meſſage To both Houſes of Parliament; Brought from the Iſle of WIGHT upon Mouday the fourteenth of Auguſt 1648.</p>
+                  <p>By the Right Honourable, the Earle of Middleſex, Sir <hi>Iohn Hipſley,</hi> and Maſter <hi>Bunckley</hi> concerning the Perſonall Treaty.</p>
+                  <figure>
+                     <head>C R</head>
+                     <q>DI<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>V ET MON DROIT</q>
+                     <q>HONI SOIT QVI MAL Y <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </q>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                  </figure>
+                  <p>Printed in the Yeare. 1648.</p>
+               </div>
+            </front>
+            <body>
+               <div type="document">
+                  <pb facs="tcp:116704:6"/>
+                  <pb n="1" facs="tcp:116704:6"/>
+                  <opener>
+                     <dateline>CARISBROOKE <date>Aug. 10. 1648.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg>F the peace of my Domini<g ref="char:EOLhyphen"/>ons were not much dearer to me than any particular intereſt whatſoever, I had too much reaſon to take notice of the ſeverall Votes which paſſed againſt Me, and the ſad condition I have bin in now above theſe ſeven moneths; But ſince you, my two Houſes of Par<g ref="char:EOLhyphen"/>liament, have opened (as it ſeemes to me) a faire beginning to a happy Peace, I ſhall heartily apply my ſelfe thereun<g ref="char:EOLhyphen"/>to, and to that end I will as clearly and ſhortly as I may, ſet you downe thoſe things which I conceive neceſſary to this bleſſed worke; ſo that we together
+<pb n="2" facs="tcp:116704:7"/>may remove all impediments that may hinder a happy concluſion of this Trea<g ref="char:EOLhyphen"/>ty, which with all cheerfulneſſe I em<g ref="char:EOLhyphen"/>brace.</p>
+                  <p>And to this wiſhed end your ſelves have laid moſt excellent grounds; for what can I reaſonably expect more than to treat with Honour, Freedom &amp; Safety, upon ſuch propoſitions as you have, or ſhall preſent unto Me, and ſuch as I ſhall make to you. But withall remember that it is the definition not names of things, which make them rightly knowne; and that without means to performe no pro<g ref="char:EOLhyphen"/>poſition can take effect: and truly my preſent condition is ſuch, that I can no more treat, than a blinde man judge of colours, or one run a race who hath both his feet faſt tyed together; wherefore my firſt neceſſary demand is, That yee would recall all ſuch Votes and Orders by which people are frighted from com<g ref="char:EOLhyphen"/>ming, writing, or ſpeaking freely to Me; next, that ſuch men of all profeſſions whom I ſhall ſend for as of neceſſary uſe
+<pb n="3" facs="tcp:116704:7"/>to me in this Treaty may be admitted to wait upon me. In a word, that I may be in the ſame ſtate of freedome I was in when I was laſt at <hi>Hampton-Court,</hi> and in<g ref="char:EOLhyphen"/>deed leſſe cannot in any reaſonable meaſure make good thoſe offers which you have made me by your Votes; for how can I treat with Honour as long as people are terrified by Votes, and order to come, ſpeak, or write to me, and am I honorably treated ſo long as there is none about me except a Barber, who now came with the Commiſſioners that I ever named to wait upon me: or with freedom untill I may call ſuch unto me, of whoſe ſervices I ſhall have uſe in ſo great and difficult worke: and for Safety (I ſpeake not of my Perſon having no apprehenſion that way,) how can I judge to make a ſafe and well grounded Peace, untill I may know without diſguiſe the true preſent ſtate of all my Dominions, and particularly of all thoſe whoſe intereſts are neceſſarily concerned in the Peace of theſe King<g ref="char:EOLhyphen"/>domes
+<pb n="4" facs="tcp:116704:8"/>which leades me naturally to the laſt neceſſary demand, I ſhall make for the bringing of this Treatie to a happy end, which is.</p>
+                  <p>That I alone, or you and I joyntly; doe invite the Scots to ſend ſome per<g ref="char:EOLhyphen"/>ſons authorized by them, to Treat upon ſuch Propoſitions as they ſhall make, for certainly, the publique and neceſ<g ref="char:EOLhyphen"/>ſary intereſt they have in this great ſet<g ref="char:EOLhyphen"/>telement, is ſo clearely plaine to all the world that I beleeve no body will de<g ref="char:EOLhyphen"/>ny the neceſſity of their concurrence in order to a durable Peace, wherefore I will onely ſay, that as I am a King of both Nations, ſo I will yeeld to none in either Kingdome for being truly and zealouſly affected, for the good and ho<g ref="char:EOLhyphen"/>nour of both, my reſolution being ne<g ref="char:EOLhyphen"/>ver to be partiall for either, to the preju<g ref="char:EOLhyphen"/>dice of the other. Now as to the place, becauſe I conceive it to be rather a cir<g ref="char:EOLhyphen"/>cumſtantiall then reall part of this Treatie, I ſhall not much inſiſt upon it, I name <hi>Newport</hi> in this Iſle, yet the fer<g ref="char:EOLhyphen"/>vent
+<pb n="5" facs="tcp:116704:8"/>zeale I have that a ſpeedy end be put to theſe unhappy diſtractions, doth move me earneſty to deſire you to con<g ref="char:EOLhyphen"/>fider what a great loſſe of time it will be to Treat ſo farre from the body of my two Houſes, when every ſmall debate of which, doubtleſſe there will be may ny, muſt be tranſmitted to <hi>Weſtminſter</hi> before it be concluded.</p>
+                  <p>And really I thinke, though to ſome it may ſeeme a Parodox, that peoples minds will be much more apt to ſettle, ſeeing me Treat in or neare <hi>London,</hi> then in this Iſle, becauſe ſo long as I am here, it will never be believed by many, that I am ſo really free, as be<g ref="char:EOLhyphen"/>fore this Treatie begin I expect to be: and ſo I leave and recommend this point to your ſerious conſideration. And thus I have not onely fully accepted of the Treatie, which you have propoſed to me, by your votes of the third of this moneth; but alſo given it all the fur<g ref="char:EOLhyphen"/>therance that lyes in me, by demanding the neceſſary meanes for the effectuall
+<pb n="6" facs="tcp:116704:9"/>performance thereof, all which is ſo ne<g ref="char:EOLhyphen"/>ceſſarily implyed by, though not par<g ref="char:EOLhyphen"/>ticulary mentioned in your Votes, as I can no waies doubt of your ready complyance with me herein, I have now no more to ſay but to conjure you by all that is deare to Chriſtians, honeſt menor good Patriots, that yee will make all the expedition poſſible to be<g ref="char:EOLhyphen"/>gin this happy worke, by haſting down your Commiſſioners, fully authorized and well inſtructed, and by inabling me (as I have ſhewed you) to Treat pray<g ref="char:EOLhyphen"/>ing the God of Peace ſo to bleſſe our in<g ref="char:EOLhyphen"/>deavours, that all my Dominions may ſpeedily enjoy a ſafe well grounded Peace.</p>
+                  <closer>
+                     <signed>Charles R.</signed>
+                  </closer>
+                  <trailer>For the Speaker of the Lords Houſe pro tem<g ref="char:EOLhyphen"/>pore, to be communicated to the Lords and Commons in the Parliament of <hi>England</hi> at <hi>Weſtminſter.</hi>
+                  </trailer>
+               </div>
+               <trailer>FINIS.</trailer>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
